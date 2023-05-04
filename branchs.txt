@@ -1,0 +1,2 @@
+As Brachs são uma forma de dividir o seu projetos em parte,
+no final você une as branchs com o master utilizando o mege
