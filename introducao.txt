@@ -1,0 +1,5 @@
+O que é Git?
+Git é um gerenciador de versões onde você consegue ter mais controle nas modificações do seu Projeto
+
+O que Github?
+Servem para hospear os seus projetos do Git
