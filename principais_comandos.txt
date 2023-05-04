@@ -1,0 +1,17 @@
+ls
+mkdir
+cd
+touch
+rm
+rm -rf
+cat 
+grep
+nano
+echo
+pwd
+clear
+cp
+mv
+less
+history
+exit
