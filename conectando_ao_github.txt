@@ -1,0 +1,5 @@
+git remote add origin https://github.com/FernandoBarbosaaa/aprendizado_git_github.git
+
+git push -u origin master - envia o projeto para o Git
+
+git pull origin master - baixar o código do repositório
